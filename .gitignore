@@ -1,0 +1,6 @@
+*.session
+*.session-journal
+tg_cleaner.json
+__pycache__/
+.venv/
+tg_cleaner_schedules.json
